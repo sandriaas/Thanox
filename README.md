@@ -11,3 +11,4 @@
 
 [介绍与教程 (Intro & Guide)](https://tornaco.github.io/Thanox-Docs/)
 
+1
